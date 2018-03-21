@@ -28,7 +28,6 @@ header {
     font-weight: 700;
     line-height: 41px;
     text-transform: uppercase;
-    /* Text style for "T, reehous" */
     letter-spacing: -0.45px;
 }
 
@@ -247,8 +246,6 @@ nav {
     letter-spacing: -0.4px;
 }
 
-
-
 .list-ul {
     position: absolute;
     margin-top: 297px;
@@ -262,7 +259,7 @@ nav {
 
 .lists li {
     padding-left: 20px;
-    padding-top: 10px   ;
+    padding-top: 10px;
     color: #cccccc;
     font-size: 16px;
     font-weight: 400;
@@ -291,3 +288,151 @@ nav {
     text-decoration: none;
 }
 
+.latest-project {
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #fff;
+    height: 825px;
+}
+
+.main-header-latest-project {
+    width: 325px;
+    height: 30px;
+    position: absolute;
+    top: 99px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-header-latest-project span {
+    color: #222222;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+}
+
+.header-second-latest-project {
+    width: 355px;
+    height: 20px;
+    position: absolute;
+    top: 148px;
+    display: flex;
+    justify-content: center;
+}
+
+.header-second-latest-project span {
+    color: #777777;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: -0.5px;
+}
+
+.tablet {
+    position: relative;
+    width: 689px;
+    height: 613px;
+    display: flex;
+    justify-content: center;
+}
+
+.tablet img {
+    position: absolute;
+    width: 689px;
+    height: 613px;
+    top: 227px;
+    left: 330px;
+    box-shadow: inset 0 0 2px 2px #ffffff;
+    }
+
+.firs-group-latest-project {
+    width: 474px;
+    height: 431px;
+    background-color: #fff;
+    position: relative;
+    margin-top: 254px;
+    margin-left: -450px;
+
+}
+
+.header-develop-framework {
+    color: #222222;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 75px;
+    text-transform: uppercase;
+    letter-spacing: -0.45px;
+}
+
+.description-develop {
+    color: #777777;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.4px;
+    margin-bottom: 28px;
+}
+.box-icon-offer {
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+}
+
+.e-icon {
+    padding-right: 20px;
+}
+
+.e-icon img {
+    width: 67px;
+    height: 68px;
+}
+
+.title-icon {
+    color: #222222;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: -0.45px;
+}
+
+.text-e-icon {
+    color: #777777;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.4px;
+}
+
+.under-latest-project {
+    width: 422px;
+    height: 41px;
+    margin-top: 19px;
+}
+
+.under-latest-project span {
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.4px;
+    color: #777777;
+}
+
+.view-details {
+    width: 160px;
+    height: 13px;
+    margin-top: 25px;
+}
+
+.view-details span {
+    color: #7cc576;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: -0.4px;
+    padding-right: 10px;
+}
+
+.tablet {
+    position: absolute;
+    left: 650px;
+}
