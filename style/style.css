@@ -294,9 +294,6 @@ nav {
     height: 825px;
 }
 
-.header-latest-project {
-    
-}
 .header-latest-project h1 {
     text-align: center;
     color: #222222;
@@ -321,8 +318,6 @@ letter-spacing: -0.5px;
     flex-direction: row;
     flex-direction: row;
 }
-
-
 
 .main-latest-project h1 {
     color: #222222;
@@ -487,9 +482,8 @@ span {
     display: flex;
     justify-content: center;
     position: relative;
-    top: 89px
+    top: 89px;
 }
-
 .our-awesome-clients {
     height: 813px;
     background-color: white;
